@@ -1,0 +1,31 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+// Bootstrap Icons
+@import "~bootstrap-icons/font/bootstrap-icons";
+
+//Animate CSS
+@import "/resources/css/animate.min.css";
+
+.cursor-pointer {
+    cursor: pointer;
+}
+
+.outline-none {
+    outline: none !important;
+    box-shadow: none !important;
+}
+
+.right-0 {
+    right: 0;
+}
+
+.left-0 {
+    left: 0;
+}
